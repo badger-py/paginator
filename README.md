@@ -1,6 +1,16 @@
 # paginator
 Little project for comfortable pagination
 
+
+
+Instalation:
+1. Download pagination.py
+2. go to foleder with installed python 
+3. go to \Lib
+4. paste file here
+
+
+
 Using:
 ```python
 from pagination import Pagination
