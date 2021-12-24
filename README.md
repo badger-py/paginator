@@ -3,7 +3,7 @@ Little project for comfortable pagination
 
 
 
-Instalation:
+# Instalation:
 1. Download pagination.py
 2. go to foleder with installed python 
 3. go to \Lib
@@ -11,7 +11,7 @@ Instalation:
 
 
 
-Using:
+# Using:
 ```python
 from pagination import Pagination
 
