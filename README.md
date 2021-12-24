@@ -3,7 +3,7 @@ Little project for comfortable pagination
 
 Using:
 ```python
-from paginatoin import Pagination
+from pagination import Pagination
 
 paginator = Pagination(data=[1, 2, 3, 4, 5, 6, 7, 8, 9], PAGINATION_RATE=2)
 page = paginator.get_page(1)
